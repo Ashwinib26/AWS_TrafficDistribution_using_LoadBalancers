@@ -1,7 +1,7 @@
 
-# 🚀 Load Balanced EC2 Web Deployment
+# 🚀 AWS Traffic Distribution Using Application Load Balancers
 
-This project demonstrates a basic yet powerful AWS deployment setup using EC2 and a Load Balancer. Here's what it covers:
+This demonstrates a basic yet powerful AWS deployment setup using EC2 and a Load Balancer. Here's what it covers:
 
 ---
 
